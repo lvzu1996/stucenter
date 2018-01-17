@@ -1,0 +1,21 @@
+//get /operation stuid=1
+{
+    "msg":"success",
+    "data":[{
+         "name": "计算机原理实验（一）",
+           "date": "2016-05-02 19:00-21:00",
+           "teacher": "王小虎",
+           "lab": "3N-132",
+           "desc": "第一节实验",
+           "detail": "operation detail"
+    }, {
+      "name": "计算机原理实验（一）",
+      "date": "2016-05-02 19:00-21:00",
+      "teacher": "王小虎",
+      "lab": "3N-132",
+      "desc": "第一节实验",
+      "detail": "operation detail"
+    }],
+
+    "error_num":"0"
+}

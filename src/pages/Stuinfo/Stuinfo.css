@@ -1,0 +1,10 @@
+#stuinfo-body{
+    width: 80%;
+}
+
+#stuinfo-display{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

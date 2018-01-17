@@ -1,0 +1,21 @@
+//getStuInfo get id=1
+{
+    "msg":"success",
+    "data":[{
+        "name":"lvzu",
+        "gender":"男",
+        "mobile":"13777821015"
+    },{
+        "name": "lvzu",
+        "gender": "男",
+        "mobile": "13777821015"
+    }],
+    "error_num":10000
+}
+
+//revStuInfo POST name=lvzu gender=女 mobile=13777777777
+{
+    "msg": "success",
+    "data":[],
+    "error_num": 10000
+}

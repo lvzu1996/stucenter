@@ -1,0 +1,6 @@
+// get /push stuid=1
+{
+    "msg": "success",
+    "data": [],
+    "error_num": 10000
+}

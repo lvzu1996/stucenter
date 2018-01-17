@@ -1,0 +1,10 @@
+// get /report stuid=1
+{
+    "msg": "success",
+    "data": [{
+        "name":"lvzu",
+        "course":"C++程序",
+        "download":"localhost:8080/download/2018/1/16"
+    }],
+    "error_num": 10000
+}
